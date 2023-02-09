@@ -14,7 +14,7 @@ I will try to post something every week! (hopefully)
 
 ## Hi! I am "Good" thats literally my name
 
-Love learning anything about tech space (mainly software) from web to mobile apps technologies.
+Love learning anything about tech space (mainly software) from web to mobile app technologies.
 
 ## I know a thing or two
 
