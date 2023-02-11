@@ -8,18 +8,18 @@ tags:
 
 ## Content you will get
 
-I plan to use this as a note taking app where I would share my experience and knowledge with you guys. =]
+I plan to use this as a note-taking app to share my experience and knowledge with you guys. =]
 
-I will try to post something every week! (hopefully)
+I will post something every week! (hopefully)
 
-## Hi! I am "Good" thats literally my name
+## Hi! I am "Good." That's my name.
 
-Love learning anything about tech space (mainly software) from web to mobile app technologies.
+I love learning anything about tech space (mainly software), from the web to mobile app technologies.
 
 ## I know a thing or two
 
 - Area I am SomeWhat Comfortable with (:P) would be
-  - C# (Unity Game Development) - Please no Multiplayer
+  - C# (Unity Game Development) - Please, no Multiplayer
   - Little bit of flutter
   - HTML, CSS, JS
 
